@@ -1,22 +1,22 @@
-- 👋 Hi, I’m Vladislav Startsev - new grad 2021 of [UDSU](https://udsu.ru/English/About-UdSU) - Fundamentals of computer science and information technologies, Izhevsk, Russia
-- 🌱 I’m currently learning *vue* and have good knowledge of 
-> Flask
+- ### 👋 Hi, I’m Vladislav Startsev - new grad 2021 of [UDSU](https://udsu.ru/English/About-UdSU) - Fundamentals of computer science and information technologies, Izhevsk, Russia
+- ### 🌱 I’m currently learning *vue* and have good knowledge of 
+> #### Flask
 > 
-> Postgresql
+> #### Postgresql
 > 
-> Sql-alchemy
+> #### Sql-alchemy
+>
+> ##### Nginx
 > 
-> Twitchio
+> ###### Twitchio
 > 
-> Pygtail
+> ###### Pygtail
 > 
-> Nginx
+> ###### Docker
 > 
-> Docker
+> ###### HTML
 > 
-> HTML
-> 
-> Bootstrap5 
+> ###### Bootstrap5 
 
-- 💞️ I’m looking to collaborate on interesting project as back-end developer 
-- 📫 How to reach me: t.me/whitexwine
+- ### 💞️ I’m looking to collaborate on interesting project as back-end developer 
+- ### 📫 How to reach me: t.me/whitexwine
