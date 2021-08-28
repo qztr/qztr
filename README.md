@@ -19,4 +19,3 @@
 > ###### Bootstrap5 
 
 - ### 💞️ I’m looking to collaborate on interesting project as back-end developer 
-- ### 📫 How to reach me: t.me/whitexwine
