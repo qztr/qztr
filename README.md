@@ -4,6 +4,8 @@
 > 
 > ### Postgresql
 > 
+> ### Docker
+> 
 > #### Sql-alchemy
 >
 > ##### Nginx
@@ -11,8 +13,6 @@
 > ###### Twitchio
 > 
 > ###### Pygtail
-> 
-> ###### Docker
 > 
 > ###### HTML
 > 
