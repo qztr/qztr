@@ -3,13 +3,20 @@
 > flask
  
 > postgresql
+
 > sql-alchemy
- twitchio
- Pygtail
- nginx
- docker
- html
- bootstrap5 
+
+> twitchio
+
+> Pygtail
+
+> nginx
+
+> docker
+
+> html
+
+> bootstrap5 
 
 - 💞️ I’m looking to collaborate on interesting project as back-end developer 
 - 📫 How to reach me: t.me/whitexwine
