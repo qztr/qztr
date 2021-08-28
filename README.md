@@ -3,12 +3,19 @@
 > Flask
 > 
 > Postgresql
+> 
 > Sql-alchemy
+> 
 > Twitchio
+> 
 > Pygtail
+> 
 > Nginx
+> 
 > Docker
+> 
 > HTML
+> 
 > Bootstrap5 
 
 - 💞️ I’m looking to collaborate on interesting project as back-end developer 
