@@ -2,9 +2,9 @@
 - ### 🌱 I’m currently learning *vue* and have good knowledge of 
 > ### Flask
 > 
-> ### Postgresql
+> ###  Docker
 > 
-> ### Docker
+> ### Postgresql
 > 
 > #### Sql-alchemy
 >
