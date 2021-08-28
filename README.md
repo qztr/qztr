@@ -1,6 +1,6 @@
 - ### 👋 Hi, I’m Vladislav Startsev - new grad 2021 of [UDSU](https://udsu.ru/English/About-UdSU) - Fundamentals of computer science and information technologies, Izhevsk, Russia
 - ### 🌱 I’m currently learning *vue* and have good knowledge of 
-> ## Flask
+> ### Flask
 > 
 > ###  Docker
 > 
@@ -13,7 +13,6 @@
 > ###### Twitchio
 > 
 > ###### Pygtail
-> <hr>
 > 
 > ###### HTML
 > 
