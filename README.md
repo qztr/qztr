@@ -1,22 +1,64 @@
-- ### 👋 Hi, I’m Vladislav Startsev - new grad 2021 of [UDSU](https://udsu.ru/English/About-UdSU) - Fundamentals of computer science and information technologies, Izhevsk, Russia
-- ### 💞️ I’m looking to collaborate on interesting project as back-end developer 
-- ### 🌱 I’m currently learning *vue* and have good knowledge of 
-> ### Flask
-> 
-> ###  Docker
-> 
-> ### Postgresql
-> 
-> #### Sql-alchemy
->
-> ##### Nginx
-> 
-> ###### Twitchio
-> 
-> ###### Pygtail
-> 
-> ###### HTML
-> 
-> ###### Bootstrap5 
+# Vladislav Startsev
+Full-stack developer from Russia.
+<hr>
+
+## Front-end
+-   Vue 3
+-   Bootstrap
+-   TailWind CSS
+
+<hr>
+
+## Back-end
+
+-   Python (Flask)
+-   PostgreSQL
+-   SQLAlchemy
+-   SQLite
+
+<hr>
 
 
+## Server Management
+
+-   Docker
+-   Nginx
+-   Systemd
+-   Debian/Ubuntu
+
+<hr>
+
+
+## Cloud Services
+
+-   Google Cloud Platform (Compute Engine+App Engine+Cloud SQL)
+-   Azure
+-   AWS
+-   Pythonanywhere
+-   DigitalOcean
+-   CloudFlare (DNS, CDN)
+-   Other VPS providers
+
+<hr>
+
+
+## Application Development
+
+-  Quasar
+
+<hr>
+
+
+## Others
+
+-   WSL
+-   Git
+-   English (~C1 )
+-   Python Bot API: Pygtail, Twitchio
+
+<hr>
+
+
+## Links
+
+-   [Telegram](https://t.me/whitexwine)
