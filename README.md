@@ -1,13 +1,10 @@
 # Vladislav Startsev
 Full-stack developer from Russia.
-<hr>
 
 ## Front-end
 -   Vue 3
 -   Bootstrap
 -   TailWind CSS
-
-<hr>
 
 ## Back-end
 
@@ -16,18 +13,12 @@ Full-stack developer from Russia.
 -   SQLAlchemy
 -   SQLite
 
-<hr>
-
-
 ## Server Management
 
 -   Docker
 -   Nginx
 -   Systemd
 -   Debian/Ubuntu
-
-<hr>
-
 
 ## Cloud Services
 
@@ -39,15 +30,9 @@ Full-stack developer from Russia.
 -   CloudFlare (DNS, CDN)
 -   Other VPS providers
 
-<hr>
-
-
 ## Application Development
 
 -  Quasar
-
-<hr>
-
 
 ## Others
 
@@ -55,9 +40,6 @@ Full-stack developer from Russia.
 -   Git
 -   English (~C1 )
 -   Python Bot API: Pygtail, Twitchio
-
-<hr>
-
 
 ## Links
 
